@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alok/Desktop/C_code/Day_02/add'
+relocations:     []
+...
